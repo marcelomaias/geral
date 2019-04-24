@@ -1,0 +1,8 @@
+#modal {
+  background-color: aquamarine;
+  padding: 4em;
+  display: none;
+}
+#modal.active {
+  display: block;
+}
